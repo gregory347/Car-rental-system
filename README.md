@@ -27,7 +27,7 @@ Ensure you have Java Development Kit (JDK) installed on your system.
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/car-rental-system.git
+git clone https://github.com/gregory347/Car-rental-system/edit/main/README.md
 Navigate to the project directory:
 bash
 Copy code
